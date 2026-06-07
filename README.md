@@ -65,12 +65,12 @@ Kontrol edilen bazı bileşenler:
 
 ### Ana Ekran
 
-![Ana Ekran](ekrangörüntüleri/ana ekran.png)
+![Ana Ekran](ekrangörüntüleri/ana_ekran.png)
 
 
 ### Mail Listesi
 
-![Mail Listesi](ekrangörüntüleri/mail listesi.png)
+![Mail Listesi](ekrangörüntüleri/mail_listesi.png)
 
 ### Sol Menü
 

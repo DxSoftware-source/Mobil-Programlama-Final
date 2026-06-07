@@ -843,3 +843,4 @@ class MyGmailklonu extends StatelessWidget {
     );
   }
 }
+// Bu uygulama Mobil Programlama dersi  kapsamında geliştirilmiştir
