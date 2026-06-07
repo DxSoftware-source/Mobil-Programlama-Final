@@ -2,7 +2,7 @@
 
 ## Klonlanan Uygulama
 
-Bu projede Google Gmail uygulamasının masaüstü arayüzünü Flutter kullanarak yapmaya çalıştım. Amaç Gmail görünümüne benzer bir tasarım oluşturmaktı.
+Bu projede Google Gmail uygulamasının masaüstü arayüzünü Flutter kullanarak yapmaya çalışıldı. Amaç Gmail görünümüne benzer bir tasarım oluşturmaktı.
 
 ## Kullanılan Teknolojiler
 
@@ -45,21 +45,8 @@ Bu projede Google Gmail uygulamasının masaüstü arayüzünü Flutter kullanar
 
 ## Proje Hakkında
 
-Bu projede Flutter kullanarak Gmail uygulamasının arayüzünü oluşturdum. Uygulamada üst menü, arama çubuğu, sol tarafta menü alanı, mail kategorileri ve mail listesi bulunmaktadır. Tasarım yapılırken Flutter'ın temel widget'ları kullanılmıştır.
+Bu projede Flutter kullanarak Gmail uygulamasının arayüzünü oluşturdum. Uygulamada üst menü, arama çubuğu, sol tarafta menü alanı, mail kategorileri ve mail listesi bulunuyor.
 
-## Test
-
-Projede widget testi yapılmıştır. Test içerisinde uygulamanın açıldığı ve ekranda bulunan bazı bileşenlerin doğru şekilde görüntülendiği kontrol edilmiştir.
-
-Kontrol edilen bazı bileşenler:
-
-* Birincil
-* Tanıtımlar
-* Sosyal
-* Güncellemeler
-* Google
-* Giresun Üniversitesi
-* GitHub
 
 ## Ekran Görüntüleri
 
@@ -86,8 +73,3 @@ Bölüm: Bilişim Güvenliği Teknolojisi
 
 Öğrenci No: 254602022
 
-## Commit Geçmişi
-
-* Gmail arayuzu tamamlandi
-* Widget yapisi duzenlendi
-* README güncellendi
